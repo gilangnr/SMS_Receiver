@@ -6,4 +6,6 @@
     </style>
 
     <style name="Theme.SMSReceiver" parent="Base.Theme.SMSReceiver" />
+
+    <style name="Theme.SMSReceiver.Dialog" parent="Theme.AppCompat.DayNight.Dialog"/>
 </resources>
